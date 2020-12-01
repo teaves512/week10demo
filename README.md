@@ -5,3 +5,15 @@ For breakfast this morning I had some left over **tuna pasta** that I made yeste
 Take a look at my LinkedIn page by clicking [here...](https://www.linkedin.com/in/thomasrichardeaves/)
 
 ![TommyOctocat](/octocat.png)
+
+## My Favourite Games
+1. Dark Souls 3
+2. Gears of War 2
+3. Hollow Knight
+4. Halo Reach
+5. Skyrim
+
+## ProDev Checklist
+ - [x] Create LinkedIn Page
+ - [] Finish Website
+ - [] Finish Essay
