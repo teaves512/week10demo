@@ -17,3 +17,13 @@ Take a look at my LinkedIn page by clicking [here...](https://www.linkedin.com/i
  - [x] Create LinkedIn Page
  - [ ] Finish Website
  - [ ] Finish Essay
+
+## Game Engine Creation - Code Snippet
+'''C++
+struct AccountDetails
+{
+	string name;
+	int accountNumber;
+	double balance;
+};
+'''
