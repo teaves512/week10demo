@@ -19,9 +19,11 @@ Take a look at my LinkedIn page by clicking [here...](https://www.linkedin.com/i
  - [ ] Finish Essay
 
 ## Game Engine Creation - Code Snippet
+'''cpp
 struct AccountDetails
 {
 	string name;
 	int accountNumber;
 	double balance;
 };
+'''
