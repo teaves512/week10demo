@@ -3,3 +3,5 @@ For breakfast this morning I had some left over **tuna pasta** that I made yeste
 
 ## LinkedIn Page
 Take a look at my LinkedIn page by clicking [here...](https://www.linkedin.com/in/thomasrichardeaves/)
+
+![TommyOctocat](/octocat.png)
