@@ -15,5 +15,5 @@ Take a look at my LinkedIn page by clicking [here...](https://www.linkedin.com/i
 
 ## ProDev Checklist
  - [x] Create LinkedIn Page
- - [] Finish Website
- - [] Finish Essay
+ - [ ] Finish Website
+ - [ ] Finish Essay
